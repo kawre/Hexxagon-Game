@@ -3,4 +3,4 @@ In this project, I developed a Hexxagon game using C++ programming language and 
 # Requirements
 To get started with the project, it is important to have SFML installed in the C:/SFML/ directory.
 # Preview
-![Video](Static/recording.mp4)
+![](https://github.com/kawre/Hexxagon-Game/assets/69250723/0f8b503a-e7c6-44b0-8831-852a9c5f44a9)
