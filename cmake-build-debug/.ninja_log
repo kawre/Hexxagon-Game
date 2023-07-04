@@ -1,0 +1,19 @@
+# ninja log v5
+60	2106	7074445462695807	CMakeFiles/Hexxagon.dir/Components/TextBox.cpp.obj	24c85bc206e3d73b
+20	2009	7074945209976321	CMakeFiles/Hexxagon.dir/Shapes/BorderShape.cpp.obj	fec2ade225591024
+42	2794	7074942784946127	CMakeFiles/Hexxagon.dir/Static/Util.cpp.obj	23762e2e04eaac8c
+26	3683	7074945226769410	CMakeFiles/Hexxagon.dir/Shapes/HexagonShape.cpp.obj	6e52896fd9fe3f94
+31	2048	7074945210362481	CMakeFiles/Hexxagon.dir/Shapes/PawnShape.cpp.obj	a0459f58a449edef
+13	3282	7074945222733292	CMakeFiles/Hexxagon.dir/main.cpp.obj	4bd5370bfa05ef08
+8	3766	7074945227606325	CMakeFiles/Hexxagon.dir/States/Game.cpp.obj	b2586a907cd918f8
+57	3620	7074945225941948	CMakeFiles/Hexxagon.dir/States/GamePlayState.cpp.obj	6b2633e3f7c21215
+40	4053	7074945230478065	CMakeFiles/Hexxagon.dir/States/MenuState.cpp.obj	cd5064ffc2008bb
+67	2967	7074942786631257	CMakeFiles/Hexxagon.dir/States/StateStack.cpp.obj	bd3425e477d025dd
+46	4221	7074945232173518	CMakeFiles/Hexxagon.dir/Components/Board.cpp.obj	86ee4398157710e4
+79	2434	7074945214289434	CMakeFiles/Hexxagon.dir/Components/Button.cpp.obj	cf7dd5dfce6459d9
+2435	4860	7074945238574991	CMakeFiles/Hexxagon.dir/States/BestScoresState.cpp.obj	4775722bb6a927b8
+2049	4220	7074945232183540	CMakeFiles/Hexxagon.dir/Components/Score.cpp.obj	8397ced2f03dd543
+9	1946	7077059286544679	CMakeFiles/Hexxagon.dir/States/ChooseModeState.cpp.obj	dc2b77c8d704e5fd
+2010	4258	7074945232579458	CMakeFiles/Hexxagon.dir/Components/RadioButton.cpp.obj	e443727ed6353a71
+3283	5410	7074945244089447	CMakeFiles/Hexxagon.dir/States/LoadGameState.cpp.obj	ea61fdd2d243a231
+1947	3403	7077059301056859	Hexxagon.exe	25ebb30d15d37ece
